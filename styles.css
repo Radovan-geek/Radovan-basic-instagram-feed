@@ -1,0 +1,95 @@
+body {
+    background: grey;
+    margin: 0px;
+}
+
+div {
+    box-sizing: border-box; 
+}
+
+header {
+    background: white;      
+}
+
+header h1 {
+    margin: 0px,
+
+}
+
+div.post {
+    background: white;
+    margin-top: 10 px;
+}
+
+div.container {
+    width: 600px;
+    margin: auto;
+}
+
+div.post img {
+width: 100%;
+}
+
+.header {
+    width: 600px;
+    margin: auto;
+}
+
+div.post p, div.post h2 {
+    padding: 10px;
+}
+
+div.post .post-header div:first-child  {
+    display: inline-block;
+    width: 80% ;
+    
+}
+
+div.post .post-header div:last-child  {
+    display: inline-block;
+    width: 19%;
+    text-align: right;
+    padding: 20px;
+    color: grey;
+    
+}
+
+div.post .post-header2 div:first-child  {
+    display: inline-block;
+    width: 80% ;
+}
+
+div.post .post-header2 div:last-child  {
+    display: inline-block;
+    width: 19%;
+    text-align: right;
+    padding: 20px;
+    color: grey;
+    }
+
+    div.post .post-header3 div:first-child  {
+        display: inline-block;
+        width: 80% ;
+    }
+    
+    div.post .post-header3 div:last-child  {
+        display: inline-block;
+        width: 19%;
+        text-align: right;
+    padding: 20px;
+    color: grey;
+        }
+
+        div.post .post-header4 div:first-child  {
+            display: inline-block;
+            width: 80% ;
+        }
+        
+        div.post .post-header4 div:last-child  {
+            display: inline-block;
+            width: 19%;
+            text-align: right;
+            padding: 20px;
+            color: grey;
+            
+            }
